@@ -72,6 +72,7 @@ jika lebih dari atau kurang dari 60 (menit) makan akan menambahkan dan mengurai 
 secara keseluruhan dalam clock, around disini int i32 yang memungkinkan untuk menambahkan menit sesuai yang di test
 
 codes ini saya modif dari berbagai sumber sehingga memudahkan saya untuk memahaminya
-[Assemble](https://doc.rust-lang.org/std/fmt/index.html)
-[Assemble](https://doc.rust-lang.org/book/ch05-01-defining-structs.html?highlight=struct#defining-and-instantiating-structs)
+[LINK1](https://doc.rust-lang.org/std/fmt/index.html)
+[LINK](https://doc.rust-lang.org/book/ch05-01-defining-structs.html?highlight=struct#defining-and-instantiating-structs)
 
+Dan banyak lainnya.
