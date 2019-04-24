@@ -24,4 +24,4 @@ impl fmt::Debug for Clock {
     write!(f, "{}:{}", self.hours, self.minutes)
     }
 }
-```rust
+'''rust
