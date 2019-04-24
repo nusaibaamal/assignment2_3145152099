@@ -1,4 +1,4 @@
-# assignment2_3145152099
+# Nusaiba Shabrina Amal, nusaibaamal (13 easy, 1 medium)
 
 ## Membuat Penjelasan Singkat Penyelesaian Exercism Level Medium
 
